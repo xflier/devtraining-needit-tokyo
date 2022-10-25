@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic_library_usage">
+    <sys_cs_topic_library_usage action="DELETE">
+        <calling_cs_topic_id display_value="Report IT Issue">0b79b0f097ba11104d66f8971153af21</calling_cs_topic_id>
+        <library_cs_topic_id display_value="Deflection">7fb4ca055303201033cdddeeff7b12b3</library_cs_topic_id>
+        <library_usage>{"type":"LibraryCall","library_topic_name":"Deflection","library_topic_id":"7fb4ca055303201033cdddeeff7b12b3","parameter-mappings":[{"parameter-name":"deflection_configuration","value":{"type":"String","mode":"string","value":"5292005253213010000dddeeff7b126c"},"metadata":{"type":"Reference","list":false,"items":[],"use_items":false,"table":"ssa_deflection_configuration"}},{"parameter-name":"deflection_pattern","value":{"type":"String","mode":"string","value":"9ee3409253213010000dddeeff7b123b"},"metadata":{"type":"Reference","list":false,"items":[],"use_items":false,"table":"ssa_deflection_pattern"}},{"parameter-name":"activity_table","value":{"type":"String","mode":"string","value":""},"metadata":{"type":"String","list":false,"items":[],"use_items":false}},{"parameter-name":"activity_ids","value":{"type":"String","mode":"string","value":""},"metadata":{"type":"String","list":false,"items":[],"use_items":false}}],"return-value-mappings":[],"id":"58c3d3b3605045819dbbd8a593753be3","name":"No Deflection","goal_id":"primary","applicability":{"type":"Applicability","mode":"script","value":"true"}}</library_usage>
+        <node_id>58c3d3b3605045819dbbd8a593753be3</node_id>
+        <sys_class_name>sys_cs_topic_library_usage</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 20:53:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>0f79b0f097ba11104d66f8971153af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cs_topic_library_usage_0f79b0f097ba11104d66f8971153af2a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 20:53:30</sys_updated_on>
+    </sys_cs_topic_library_usage>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ec54831adb4a19989df22f17d4961915</instance_id>
+        <instance_name>dev135869</instance_name>
+        <name>sys_cs_topic_library_usage_0f79b0f097ba11104d66f8971153af2a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic_library_usage"><sys_cs_topic_library_usage action="INSERT_OR_UPDATE"><calling_cs_topic_id display_value="Report IT Issue">0b79b0f097ba11104d66f8971153af21</calling_cs_topic_id><library_cs_topic_id display_value="Deflection">7fb4ca055303201033cdddeeff7b12b3</library_cs_topic_id><library_usage>{"type":"LibraryCall","library_topic_name":"Deflection","library_topic_id":"7fb4ca055303201033cdddeeff7b12b3","parameter-mappings":[{"parameter-name":"deflection_configuration","value":{"type":"String","mode":"string","value":"5292005253213010000dddeeff7b126c"},"metadata":{"type":"Reference","list":false,"items":[],"use_items":false,"table":"ssa_deflection_configuration"}},{"parameter-name":"deflection_pattern","value":{"type":"String","mode":"string","value":"9ee3409253213010000dddeeff7b123b"},"metadata":{"type":"Reference","list":false,"items":[],"use_items":false,"table":"ssa_deflection_pattern"}},{"parameter-name":"activity_table","value":{"type":"String","mode":"string","value":""},"metadata":{"type":"String","list":false,"items":[],"use_items":false}},{"parameter-name":"activity_ids","value":{"type":"String","mode":"string","value":""},"metadata":{"type":"String","list":false,"items":[],"use_items":false}}],"return-value-mappings":[],"id":"58c3d3b3605045819dbbd8a593753be3","name":"No Deflection","goal_id":"primary","applicability":{"type":"Applicability","mode":"script","value":"true"}}</library_usage><node_id>58c3d3b3605045819dbbd8a593753be3</node_id><sys_class_name>sys_cs_topic_library_usage</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-24 20:53:30</sys_created_on><sys_domain>global</sys_domain><sys_id>0f79b0f097ba11104d66f8971153af2a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_cs_topic_library_usage_0f79b0f097ba11104d66f8971153af2a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-24 20:53:30</sys_updated_on></sys_cs_topic_library_usage></record_update>]]></payload>
+        <payload_hash>-1313090700</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>63b2eef2971211104d66f8971153af21</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 20:53:30</sys_created_on>
+        <sys_id>0f79b0f097ba11104d66f8971153af2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1840bc599cb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 20:53:30</sys_updated_on>
+        <type>Topic Library Usage</type>
+        <update_guid>4779b0f0a4ba1110c7878fea0214f72c</update_guid>
+        <update_guid_history>4779b0f0a4ba1110c7878fea0214f72c:-1313090700</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 22:07:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_cs_topic_library_usage">sys_cs_topic_library_usage</sys_db_object>
+        <sys_id>1a886ab710a545b8a8ea9a9fe8d6fe64</sys_id>
+        <sys_metadata>0f79b0f097ba11104d66f8971153af2a</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_cs_topic_library_usage_0f79b0f097ba11104d66f8971153af2a</sys_update_name>
+        <sys_update_version display_value="sys_cs_topic_library_usage_0f79b0f097ba11104d66f8971153af2a">0f79b0f097ba11104d66f8971153af2c</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
