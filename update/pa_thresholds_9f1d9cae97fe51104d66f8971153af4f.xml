@@ -11,7 +11,7 @@
         <element/>
         <element_level2/>
         <indicator display_value="NeedIt: Active Weekly">aab0039a97ba51104d66f8971153af0a</indicator>
-        <last_check/>
+        <last_check>20221024</last_check>
         <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <sys_class_name>pa_thresholds</sys_class_name>
         <sys_created_by>admin</sys_created_by>

@@ -2,7 +2,7 @@
     <pa_thresholds action="INSERT_OR_UPDATE">
         <active>true</active>
         <aggregate/>
-        <all_time_amount/>
+        <all_time_amount>161</all_time_amount>
         <breakdown/>
         <breakdown_level2/>
         <condition>all_time_low</condition>
@@ -11,7 +11,7 @@
         <element/>
         <element_level2/>
         <indicator display_value="NeedIt: Due Monthly">2c6f36d697ba51104d66f8971153aff0</indicator>
-        <last_check/>
+        <last_check>20221001</last_check>
         <owner/>
         <sys_class_name>pa_thresholds</sys_class_name>
         <sys_created_by>admin</sys_created_by>
